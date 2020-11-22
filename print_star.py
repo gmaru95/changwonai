@@ -1,4 +1,7 @@
-def print_star(n):
-    for _ in range(n):
-        print("*************")
-print_star(5)
+def print_star():
+    for _ in range(3):
+        print("*************3")
+
+def print_star1():
+    for _ in range(2):
+        print("*************2")
